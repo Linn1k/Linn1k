@@ -81,7 +81,6 @@ A disciplina não é só sobre leis, mas também sobre postura profissional no m
 <p align="center">
   🌐 <strong>Website:</strong> <a href="https://linnek.dev">linnek.dev</a> *(Em desenvolvimento)* <br>
   🖥️ <strong>GitHub:</strong> <a href="https://github.com/Línnek">github.com/Línnek</a> <br>
-  🐦 <strong>X (Twitter):</strong> <a href="https://x.com/Linn1k">@Linn1k</a> <br>
   📩 <strong>Email:</strong> Linnek.Dev@gmail.com <br>
 </p>
 
