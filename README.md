@@ -73,7 +73,13 @@ A disciplina não é só sobre leis, mas também sobre postura profissional no m
 ✅ **Prós:** O portfólio é uma forma legal de acompanhar a evolução e deixar tudo registrado. Também achei bom que a disciplina não seja só teoria chata, tem um lado mais reflexivo.  
 ⚠️ **Contras:** Como não tem um modelo fixo de portfólio, pode ser meio confuso no começo entender o que exatamente precisa ser feito.  
 
-🔜 *(Novas reflexões serão adicionadas semanalmente...)*  
+### 📅 **Semana 2 - **
+### 📅 **Semana 3 - **
+### 📅 **Semana 4 - **
+### 📅 **Semana 5 - **
+### 📅 **Semana 6 - **
+### 📅 **Semana 7 - **
+
 
 ---
 
