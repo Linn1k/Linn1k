@@ -77,8 +77,6 @@ A disciplina não é só sobre leis, mas também sobre postura profissional no m
 ### 📅 **Semana 3 - **
 ### 📅 **Semana 4 - **
 ### 📅 **Semana 5 - **
-### 📅 **Semana 6 - **
-### 📅 **Semana 7 - **
 
 
 ---
