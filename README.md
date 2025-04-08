@@ -60,20 +60,32 @@
 ## 📅 Reflexões sobre as Aulas  
 💭 **Registros semanais sobre o progresso e aprendizado.**  
 
-### 📅 **Semana 1 - Introdução à Disciplina**  
-📌 **O que foi discutido:**  
+### **📅 Semana 1 - Introdução à Disciplina**  
+
+📌 O que foi discutido:
 📝 Como a disciplina funciona (carga horária, encontros semanais, avaliação).  
 📝 A construção do conhecimento com base na participação e reflexão.  
 📝 Expectativas para o curso e a importância da ética no mundo da tecnologia.  
 
-📖 **O que eu aprendi:**  
+📖 O que eu aprendi:
 A disciplina não é só sobre leis, mas também sobre postura profissional no mercado. O professor falou da importância da participação ativa e do **portfólio reflexivo**, que vai ajudar a organizar o aprendizado ao longo do semestre. Parece que a ideia é fazer a gente pensar mais sobre o que aprende, em vez de só decorar conceitos.  
 
-💡 **Minha opinião (Prós e Contras):**  
+💡 Minha opinião (Prós e Contras):
 ✅ **Prós:** O portfólio é uma forma legal de acompanhar a evolução e deixar tudo registrado. Também achei bom que a disciplina não seja só teoria chata, tem um lado mais reflexivo.  
 ⚠️ **Contras:** Como não tem um modelo fixo de portfólio, pode ser meio confuso no começo entender o que exatamente precisa ser feito.  
 
-### 📅 **Semana 2 - **
+### **📅 Semana 2 – Pensamento Computacional e Portfólio**
+
+📌 O que foi discutido: 
+O que é portfólio reflexivo e sua importância.Pensamento computacional: decomposição, padrões, abstração e algoritmos.Exemplos práticos e conexão com os ODS.
+
+📖 O que eu aprendi:
+Aprendi que o pensamento computacional ajuda a resolver problemas de forma lógica e organizada. O portfólio não é só pra nota, mas pra refletir sobre o que aprendo.
+
+💡 Minha opinião (Prós e Contras):
+✅ Prós: A aula foi prática e fácil de entender com os exemplos.
+⚠️ Contras: Ainda fico meio confuso com tanta informação nova de uma vez.
+
 ### 📅 **Semana 3 - **
 ### 📅 **Semana 4 - **
 ### 📅 **Semana 5 - **
