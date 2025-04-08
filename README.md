@@ -1,103 +1,105 @@
----
+# 👋 Olá, eu sou o Línnek
 
-<h1 align="center">Olá 👋, eu sou o Línnek</h1>
-
-<p align="center">
-✨ Seja bem-vindo! Explorando desenvolvimento de software e sempre em busca de novos desafios. 🚀
-</p>
+✨ Seja bem-vindo!
 
 ---
 
-## 🚀 **Estudante de Engenharia de Software**  
+## 🚀 Sobre mim
 
-🎓 **Cursando:** Engenharia de Software na UniCatólica.  
-💡 **Interesses:** Programação, solução de problemas e desenvolvimento de jogos.  
-💻 **Explorando:** Desenvolvimento de software e suas aplicações.  
-
----
-
-## 📌 O que estou fazendo  
-📖 **Atualmente estudando:**  
-🔹 **Algoritmos, arquitetura de computadores, lógica e teoria dos conjuntos.**  
-🔹 **Praticando Python e C#.**  
-🔹 **Explorando ética em software, direitos autorais e propriedade intelectual.**  
-
-🚀 **Atividades:**  
-🔸 Participando do **Desafio X**, um desafio universitário de inovação.  
-🔸 Construindo meu **portfólio reflexivo** para a disciplina **Práticas Profissionais em Ética e Legislação**.  
+🎓 **Curso:** Engenharia de Software na UniCatólica  
+💻 **Interesses:** Programação, resolução de problemas e criação de jogos  
+🔎 **Foco atual:** Desenvolvimento de software, ética e pensamento computacional
 
 ---
 
-## 📂 Meu Portfólio  
-📁 **O que está incluso:**  
-✔ Reflexões sobre as aulas e principais aprendizados.  
-✔ Estudos individuais e em grupo.  
-✔ Desafios enfrentados e soluções encontradas.  
-✔ Planejamento e estratégias de desenvolvimento pessoal.  
+## 📚 Estudos Atuais
+
+- Algoritmos e lógica de programação  
+- Arquitetura de computadores e matemática discreta  
+- Python
+- Ética, direitos autorais e propriedade intelectual em software  
+
+🛠 Participando do **Desafio X**, desafio universitário de inovação  
+🧠 Construindo um **portfólio reflexivo** para a disciplina de Ética e Legislação
 
 ---
 
-## 🏗️ Meus Projetos  
-### 🎯 **Desafio X - Projeto em Andamento**  
-📌 *Participação no Desafio X da UniCatólica*  
-✅ Formação do time  
-💡 Brainstorming de ideias  
-⚙️ Desenvolvimento inicial  
-🛠️ Testes e melhorias  
-📢 Apresentação final  
+## 📁 Meu Portfólio Reflexivo
+
+Inclui:  
+- Reflexões semanais das aulas  
+- Registros de estudo e atividades  
+- Estratégias de desenvolvimento pessoal  
+- Desafios enfrentados e como resolvi
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
+## 🧪 Projeto em Andamento
+
+### 🎯 Desafio X – UniCatólica  
+- Formação da equipe  
+- Brainstorm e definição de ideia  
+- Desenvolvimento e testes  
+- Melhorias e apresentação final
 
 ---
 
-## 📅 Reflexões sobre as Aulas  
-💭 **Registros semanais sobre o progresso e aprendizado.**  
+## 💡 Reflexões Semanais
 
-### **📅 Semana 1 - Introdução à Disciplina**  
-
-📌 O que foi discutido:
-📝 Como a disciplina funciona (carga horária, encontros semanais, avaliação).  
-📝 A construção do conhecimento com base na participação e reflexão.  
-📝 Expectativas para o curso e a importância da ética no mundo da tecnologia.  
-
-📖 O que eu aprendi:
-A disciplina não é só sobre leis, mas também sobre postura profissional no mercado. O professor falou da importância da participação ativa e do **portfólio reflexivo**, que vai ajudar a organizar o aprendizado ao longo do semestre. Parece que a ideia é fazer a gente pensar mais sobre o que aprende, em vez de só decorar conceitos.  
-
-💡 Minha opinião (Prós e Contras):
-✅ **Prós:** O portfólio é uma forma legal de acompanhar a evolução e deixar tudo registrado. Também achei bom que a disciplina não seja só teoria chata, tem um lado mais reflexivo.  
-⚠️ **Contras:** Como não tem um modelo fixo de portfólio, pode ser meio confuso no começo entender o que exatamente precisa ser feito.  
-
-### **📅 Semana 2 – Pensamento Computacional e Portfólio**
-
-📌 O que foi discutido: 
-O que é portfólio reflexivo e sua importância.Pensamento computacional: decomposição, padrões, abstração e algoritmos.Exemplos práticos e conexão com os ODS.
-
-📖 O que eu aprendi:
-Aprendi que o pensamento computacional ajuda a resolver problemas de forma lógica e organizada. O portfólio não é só pra nota, mas pra refletir sobre o que aprendo.
-
-💡 Minha opinião (Prós e Contras):
-✅ Prós: A aula foi prática e fácil de entender com os exemplos.
-⚠️ Contras: Ainda fico meio confuso com tanta informação nova de uma vez.
-
-### 📅 **Semana 3 - **
-### 📅 **Semana 4 - **
-### 📅 **Semana 5 - **
-
+### 📅 Semana 1 – Introdução à Disciplina  
+**Resumo:** Como funciona a disciplina, importância da ética e o uso do portfólio reflexivo  
+**Aprendizado:** Ética é prática, não só teoria  
+**Prós:** Reflexão e organização pessoal  
+**Contras:** Sem modelo claro de portfólio no início
 
 ---
 
-## 📫 Como me encontrar  
-<p align="center">
-  🌐 <strong>Website:</strong> <a href="https://linnek.dev">linnek.dev</a> *(Em desenvolvimento)* <br>
-  🖥️ <strong>GitHub:</strong> <a href="https://github.com/Línnek">github.com/Línnek</a> <br>
-  📩 <strong>Email:</strong> Linnek.Dev@gmail.com <br>
-</p>
+### 📅 Semana 2 – Pensamento Computacional  
+**Resumo:** Decomposição, padrões, abstração e algoritmos  
+**Aprendizado:** Pensamento computacional organiza o raciocínio  
+**Prós:** Bons exemplos  
+**Contras:** Muita informação nova
 
 ---
+
+### 📅 Semana 3 – *(em construção)*
+
+---
+
+### 📅 Semana 4 – Atitudes Empreendedoras  
+**Resumo:** Diferença entre empreender e gerir, autoconhecimento e exemplos  
+**Aprendizado:** Ter propósito, visão e atitude  
+**Prós:** Reflexiva e inspiradora  
+**Contras:** Muita teoria de uma vez só
+
+---
+
+### 📅 Semana 5 – Empreendedorismo na Prática  
+**Resumo:** Autoavaliação + plano de ação 5W2H  
+**Aprendizado:** Me entender melhor e traçar metas claras  
+**Prós:** Direto e aplicável  
+**Contras:** Faltou um exemplo guiado do 5W2H
+
+---
+
+### 📅 Semana 6 – Argumentação e Persuasão  
+**Resumo:** Vender ideias sobre softwares. Não recebi papel, mas fui abordado por 3 colegas  
+**Aprendizado:** Saber apresentar bem uma ideia é essencial  
+**Prós:** Dinâmica leve  
+**Contras:** Organização meio bagunçada
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+- Python  
+- C#  
+- Unity  
+
+---
+
+## 📫 Como me encontrar
+
+- 🌐 Website: [linnek.dev](https://linnek.dev) *(em construção)*  
+- 🖥️ GitHub: [github.com/Línnek](https://github.com/Línnek)  
+- 📩 Email: linnek.dev@gmail.com
