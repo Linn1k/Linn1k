@@ -103,6 +103,13 @@ Esse projeto tem mostrado, na prática, o valor da ética, da escuta ativa e da 
 
 ---
 
+### 📅 Semana 8 –
+
+
+---
+
+
+
 ## ✏️ Considerações Finais (em construção)
 
 > Este espaço será atualizado ao fim do semestre com uma reflexão final sobre tudo que aprendi e como isso influenciou minha visão profissional.
