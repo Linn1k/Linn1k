@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Línnek
 
-✨ Seja bem-vindo! Este portfólio acompanha minha jornada na disciplina **Práticas Profissionais em Ética e Legislação**, onde compartilho reflexões, aprendizados e experiências vividas ao longo do semestre. A proposta da disciplina vai além da teoria — ela nos convida a pensar sobre nosso papel como pessoas e profissionais.
+✨ Seja bem-vindo! Este portfólio acompanha minha jornada na disciplina **Práticas Profissionais em Ética e Legislação**.
 
 ---
 
@@ -36,14 +36,9 @@ Inclui:
 
 ## 🧪 Projeto em Destaque
 
-### 🎯 Desafio X – UniCatólica  
-Participo de um projeto interdisciplinar que envolve:  
-- Formação e organização da equipe  
-- Brainstorm e definição de ideia  
-- Desenvolvimento, testes e melhorias  
-- Apresentação final para banca
-
-Esse projeto tem mostrado, na prática, o valor da ética, da escuta ativa e da colaboração para criar soluções de verdade.
+### 🎯 Desafio X  
+### Jogo da velha
+### Conversor de endereços
 
 ---
 
