@@ -4,45 +4,9 @@
 
 ---
 
-## 🚀 Sobre mim
-
-🎓 Estudante de Engenharia de Software na UniCatólica  
-💻 Apaixonado por programação, resolução de problemas e criação de jogos  
-🔎 Atualmente focado em desenvolvimento de software e projetos com impacto real  
-
----
-
-## 📚 O que estou estudando agora
-
-- Algoritmos e lógica de programação  
-- Arquitetura de computadores e matemática discreta  
-- Python e conceitos de POO  
-- Ética, direitos autorais e responsabilidade profissional em tecnologia  
-
-🛠 Participante do **Desafio X**, desafio universitário de inovação  
-🧠 Desenvolvendo este **portfólio reflexivo** para a disciplina de Ética e Legislação
-
----
-
-## 📁 Sobre este Portfólio
-
-Inclui:
-- Reflexões semanais das aulas
-- Registros de atividades e estudos
-- Estratégias de desenvolvimento pessoal
-- Desafios enfrentados e como foram resolvidos
-
----
-
-## 🧪 Projeto em Destaque
-
-### 🎯 Desafio X  
-### Jogo da velha
-### Conversor de endereços
-
----
 
 ## 💡 Reflexões Semanais
+
 
 ### 📅 Semana 1 – Introdução à Disciplina  
 **O que foi discutido:** Apresentação do plano de ensino, avaliação, frequência e como o portfólio reflexivo seria usado. A professora destacou a importância da ética no ambiente profissional.  
@@ -111,9 +75,3 @@ Nesta aula organizamos os grupos para o seminário. Achei um pouco difícil form
 > Este espaço será atualizado ao fim do semestre com uma reflexão final sobre tudo que aprendi e como isso influenciou minha visão profissional.
 
 ---
-
-## 📫 Como me encontrar
-
-- 🌐 Website: [linnek.dev](https://linnek.dev) *(em construção)*  
-- 🖥️ GitHub: [github.com/Línnek](https://github.com/linn1k)  
-- 📩 Email: linnek.dev@gmail.com
