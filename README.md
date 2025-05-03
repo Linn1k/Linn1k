@@ -27,6 +27,7 @@
 
 ### 📅 Semana 3 – *(a preencher)*
 
+
 ---
 
 ### 📅 Semana 4 – Atitudes Empreendedoras  
@@ -62,12 +63,12 @@
 
 ---
 
-### 📅 Semana 8 –
+### 📅 Semana 8 – Aula curta sem a prova prevista
 Essa aula seria uma prova, porém por alguma razao nao teve. Foi discutido sobre datas de provas e simário e etc. 
 
 ---
 
-### 📅 Semana 9 –
+### 📅 Semana 9 – Grupos para o seminário
 Nesta aula organizamos os grupos para o seminário. Achei um pouco difícil formar um grupo, principalmente porque muitas pessoas chegaram atrasadas, o que complicou bastante. No final, consegui entrar em um grupo, mas ele ainda está incompleto. Sinceramente, não gosto muito da vibe da sala: parece que a turma está sempre meio perdida, sem sincronia ou espírito de equipe. Acho que seria mais interessante se os grupos fossem montados aleatoriamente — só assim essas pessoas realmente se misturariam. Hoje, todo mundo quer formar grupo “com os melhores” ou apenas “com quem já conhece”, e isso acaba desanimando, pelo menos para mim.
 
 ## ✏️ Considerações Finais (em construção)
