@@ -63,6 +63,22 @@ desiste da ideia?
 **Prós:** Atividade prática e útil tanto na vida acadêmica quanto profissional.  
 **Contras:** Faltou um exemplo mais completo do 5W2H pra guiar melhor.
 
+AUTOAVALIAÇÃO DAS MINHAS ATITUDES
+
+Meus pontos fortes:
+Eu não desisto fácil, sempre tento achar um jeito quando as coisas ficam difíceis e gosto de melhorar o que faço.
+
+O que eu preciso melhorar:
+Preciso aprender a pesquisar mais e pensar nos riscos antes de decidir as coisas.
+
+O que quero melhorar:
+Saber analisar melhor os riscos.
+
+O que vou fazer pra melhorar:
+	•	Ver exemplos reais de decisões que deram certo (ou não).
+	•	Treinar isso nos projetos que eu estiver fazendo.
+	•	Pedir dicas e opiniões pros colegas e professores.
+
 ---
 
 ### 📅 Semana 6 – Argumentação e Persuasão  
