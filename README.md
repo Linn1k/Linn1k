@@ -36,6 +36,25 @@
 **Prós:** Aula inspiradora com bons exemplos reais.  
 **Contras:** Muita teoria sem aplicação direta no momento.
 
+AUTOREFLEXÃO SOBRE ATITUDES EMPREENDEDORAS
+1) Você se desafia diariamente ou prefere permanecer na zona de
+conforto?
+Resposta: Eu não me desafio diariamente.
+3) Quando recebe um resultado, costuma se perguntar: Como posso
+melhorar? ou aceita como está?
+Resposta: Sim, sempre tento melhorar.
+5) Diante de um obstáculo, sua primeira reação é buscar alternativas
+ou se conformar?
+Resposta: Busco alternativas se for algo que gosto bastante, normalmente.
+7) Ao iniciar algo novo, você pesquisa, avalia riscos e testa antes de
+agir, ou prefere aprender fazendo?
+Resposta:
+9) Quando algo dá errado, você assume a responsabilidade e
+aprende com isso ou busca culpados?
+Resposta: Assumo a responsabilidade, acho que é o certo a se fazer.
+11) Diante de um fracasso, você persiste tentando de outra forma ou
+desiste da ideia?
+Resposta: Depende do que seja. Mais tento não desistir a primeira vista.
 ---
 
 ### 📅 Semana 5 – Empreendedorismo na Prática  
